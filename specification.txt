@@ -1,0 +1,53 @@
+Part of project/platform
+
+website
+ Home page
+	header with logo & menu
+	Banner section with offer training information
+	feature of the institute
+	upcomming training section
+	trainer section
+	trainee review
+	Big footer
+	footer
+ About page
+	page title
+	about institute
+	mission/vision
+	team member
+ Training Category page
+	page title
+	all category training	
+ Training page
+	page title
+	all training
+ Training Detail page	
+	page title
+	training detail information
+ Enroll Page
+	page title
+	entroll form
+ Login/reg. page
+	page title
+	login/reg. form
+ contact page
+	page title
+	message & direct contact section
+	google api section	
+	
+
+admin panel
+	secure login/logout system
+	create & manage teacher
+	admin manage training
+	admin manage studnet
+	admin manage admission
+	amdin create & manage new admin
+teacher panel
+	secure login/logout system
+	create training
+	show own training enroll studnet information
+student panel
+	secure login/logout system
+	own enroll training information
+	prodile update
